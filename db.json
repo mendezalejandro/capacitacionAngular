@@ -3,12 +3,44 @@
     {
       "id": 1,
       "nombre": "Alejandro Ezequiel Mendez"
+    },
+    {
+      "id": 2,
+      "nombre": "Marcelo Gallardo"
+    },
+    {
+      "id": 3,
+      "nombre": "Santino Alejandro Mendez"
+    },
+    {
+      "id": 4,
+      "nombre": "Lucas Pratto"
+    },
+    {
+      "id": 5,
+      "nombre": "Nacho Scocco"
     }
   ],
   "materias": [
     {
       "id": 1,
       "nombre": "Algortimos I"
+    },
+    {
+      "id": 2,
+      "nombre": "Algortimos II"
+    },
+    {
+      "id": 3,
+      "nombre": "Programación en tiempo real"
+    },
+    {
+      "id": 4,
+      "nombre": "Sistemas y organizaciones"
+    },
+    {
+      "id": 5,
+      "nombre": "Lenguajes formales y automatas"
     }
   ]
 }
