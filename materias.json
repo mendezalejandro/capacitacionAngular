@@ -1,0 +1,12 @@
+[
+  {
+    "ID":1,
+    "Nombre":"Algoritmos I",
+    "Carrera":"Ingenieria en Informatica",
+  },
+  {
+    "ID":2,
+    "Nombre":"Redes y Comunicaciones II",
+    "Carrera":"Ingenieria en Informatica",
+  },
+]
