@@ -1,14 +1,12 @@
-{
-  "Personas":[
+[
   {
-    "ID":1,
-    "Nombre":"Mendez Alejandro Ezequiel",
-    "Carrera":"Ingenieria en Informatica",
+    'ID':1,
+    'Nombre':'Mendez Alejandro Ezequiel',
+    'Carrera':'Ingenieria en Informatica',
   },
   {
-    "ID":2,
-    "Nombre":"Mendez Alejandro Santino",
-    "Carrera":"Ingenieria en Sistemas",
+    'ID':2,
+    'Nombre':'Mendez Alejandro Santino',
+    'Carrera':'Ingenieria en Sistemas',
   }
-    ]
-}
+]
